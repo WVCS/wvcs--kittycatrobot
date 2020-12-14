@@ -1,0 +1,33 @@
+<html>
+  <title>Art </title>
+<body>
+  <link rel="stylesheet" href="style.css">
+  <style>
+body {background-color:LightGoldenRodYellow;}
+h1   {color: white;}
+h1 {text-align: center;}
+
+    
+
+p {color: black;}
+    
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+</style>
+  
+<u2>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="art.html">Art</a></li>
+  <li><a href="pictures.html">Pictures</a></li>
+  <li><a href="Quotes.html">Pictures</a></li>
+                             
+</u2>
+<p> QUOTESSS</p>
+  
+  
+</body>
+</hmtl>
