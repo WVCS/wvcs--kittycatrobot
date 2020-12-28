@@ -1,7 +1,17 @@
 
 body {
-  background-color: DimGrey;
+  background-color: LightSteelBlue;
 }
+h1 {
+  
+  color: white;
+  text-align: center;
+  text-decoration: overline;
+  text-indent: 50px;
+  text-shadow: 2px 2px 5px LightCyan;
+  background-color: Lavender;
+}
+
     ul {
   list-style-type: none;
   margin: 0;
@@ -24,12 +34,3 @@ li a:hover {
 }
 
 
-h1 {
-  
-  color: white;
-  text-align: center;
-  text-decoration: overline;
-  text-indent: 50px;
-  text-shadow: 2px 2px 5px MediumSeaGreen;
-  background-color: black;
-}
