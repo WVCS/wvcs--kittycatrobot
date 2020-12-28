@@ -1,5 +1,7 @@
 
-
+body {
+  background-color: DimGrey;
+}
     ul {
   list-style-type: none;
   margin: 0;
@@ -21,6 +23,4 @@ li a:hover {
   color: white;
 }
 
-body {
-  background-color: DarkSlateGray;
-}
+
